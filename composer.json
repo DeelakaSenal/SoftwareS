@@ -1,0 +1,18 @@
+{
+    "name": "deelaka/software-s",
+    "description": "cw4",
+    "autoload": {
+        "psr-4": {
+            "Deelaka\\SoftwareS\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "DeelakaSenal",
+            "email": "143389402+DeelakaSenal@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
